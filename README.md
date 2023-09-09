@@ -25,7 +25,7 @@ The Medical Center Management System is a comprehensive solution designed to eff
 
 ## Project Showcase
 
-[Insert Video Link Here](#)
+[Insert Video Link Here](https://github.com/omaralibrahem7/clinic_smart/blob/main/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%AA.mp4)
 
 For a detailed demonstration of the Medical Center Management System, please watch our video showcase. In the video, we walk you through the various features and functionalities of the system, demonstrating how it can streamline clinic operations and improve patient care.
 
