@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14617592-295C-42C3-B0B5-D218A28139C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CLINIC_OMAR_05541456466</RootNamespace>
+    <AssemblyName>CLINIC_OMAR_05541456466</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v20.1" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1" />
+    <Reference Include="DevExpress.Data.v20.1" />
+    <Reference Include="DevExpress.Utils.v20.1" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core" />
+    <Reference Include="DevExpress.XtraBars.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.1" />
+    <Reference Include="DevExpress.Printing.v20.1.Core" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASES\cls_APO.cs" />
+    <Compile Include="CLASES\cls_CARD.cs" />
+    <Compile Include="CLASES\cls_CLINIC.cs" />
+    <Compile Include="CLASES\cls_COMPANY.cs" />
+    <Compile Include="CLASES\cls_CUST.cs" />
+    <Compile Include="CLASES\cls_DIG.cs" />
+    <Compile Include="CLASES\cls_DIGLIST.cs" />
+    <Compile Include="CLASES\cls_DOCTOR.cs" />
+    <Compile Include="CLASES\cls_DOS.cs" />
+    <Compile Include="CLASES\cls_MEDCHECK.cs" />
+    <Compile Include="CLASES\cls_MEDCIN.cs" />
+    <Compile Include="CLASES\cls_MEDLIST.cs" />
+    <Compile Include="CLASES\cls_MEDREP.cs" />
+    <Compile Include="CLASES\cls_MEDREQ.cs" />
+    <Compile Include="CLASES\cls_ORDER.cs" />
+    <Compile Include="CLASES\cls_SER.cs" />
+    <Compile Include="CLASES\cls_SERLIST.cs" />
+    <Compile Include="CLASES\cls_USER.cs" />
+    <Compile Include="CLASES\cls_VIS.cs" />
+    <Compile Include="frm_ADD\frm_CUST_RESP_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CUST_RESP_ADD.Designer.cs">
+      <DependentUpon>frm_CUST_RESP_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_ADD_COMPANY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_ADD_COMPANY.Designer.cs">
+      <DependentUpon>frm_ADD_COMPANY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_ADD_DOCTOR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_ADD_DOCTOR.Designer.cs">
+      <DependentUpon>frm_ADD_DOCTOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_APO_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_APO_ADD.Designer.cs">
+      <DependentUpon>frm_APO_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CARD_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CARD_ADD.Designer.cs">
+      <DependentUpon>frm_CARD_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CLINIC_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CLINIC_ADD.Designer.cs">
+      <DependentUpon>frm_CLINIC_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CUSTUMAR_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_CUSTUMAR_ADD.Designer.cs">
+      <DependentUpon>frm_CUSTUMAR_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_DIAGNOIS_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_DIAGNOIS_ADD.Designer.cs">
+      <DependentUpon>frm_DIAGNOIS_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_MEDCIN_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_MEDCIN_ADD.Designer.cs">
+      <DependentUpon>frm_MEDCIN_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_SERVICE_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_SERVICE_ADD.Designer.cs">
+      <DependentUpon>frm_SERVICE_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ADD\frm_VIS_ADD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ADD\frm_VIS_ADD.Designer.cs">
+      <DependentUpon>frm_VIS_ADD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_CILIC_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_CILIC_MAIN.Designer.cs">
+      <DependentUpon>frm_CILIC_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_MED_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_MED_MAIN.Designer.cs">
+      <DependentUpon>frm_MED_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_SERV_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_SERV_MAIN.Designer.cs">
+      <DependentUpon>frm_SERV_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_DOC MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_DOC MAIN.Designer.cs">
+      <DependentUpon>frm_DOC MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MAIN\frm_MAIN.Designer.cs">
+      <DependentUpon>frm_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MED\frm_DIG_MED.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MED\frm_DIG_MED.Designer.cs">
+      <DependentUpon>frm_DIG_MED.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MED\frm_SER_MED.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MED\frm_SER_MED.Designer.cs">
+      <DependentUpon>frm_SER_MED.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_USERLOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_USERLOGIN.Designer.cs">
+      <DependentUpon>frm_USERLOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_APO_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_APO_LIST.Designer.cs">
+      <DependentUpon>frm_APO_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_CARD_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_CARD_LIST.Designer.cs">
+      <DependentUpon>frm_CARD_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_CLINIC_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_CLINIC_LIST.Designer.cs">
+      <DependentUpon>frm_CLINIC_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_COMPANNY_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_COMPANNY_LIST.Designer.cs">
+      <DependentUpon>frm_COMPANNY_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_CUST_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_CUST_LIST.Designer.cs">
+      <DependentUpon>frm_CUST_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_DIAGNOIS_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_DIAGNOIS_LIST.Designer.cs">
+      <DependentUpon>frm_DIAGNOIS_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_LIST_DOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_LIST_DOC.Designer.cs">
+      <DependentUpon>frm_LIST_DOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_LIST_USER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_LIST_USER.Designer.cs">
+      <DependentUpon>frm_LIST_USER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_MEDCIN_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_MEDCIN_LIST.Designer.cs">
+      <DependentUpon>frm_MEDCIN_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_SERVICE_LIST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIST_FROM\frm_SERVICE_LIST.Designer.cs">
+      <DependentUpon>frm_SERVICE_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_ADD\frm_CUST_RESP_ADD.resx">
+      <DependentUpon>frm_CUST_RESP_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_ADD_COMPANY.resx">
+      <DependentUpon>frm_ADD_COMPANY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_ADD_DOCTOR.resx">
+      <DependentUpon>frm_ADD_DOCTOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_APO_ADD.resx">
+      <DependentUpon>frm_APO_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_CARD_ADD.resx">
+      <DependentUpon>frm_CARD_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_CLINIC_ADD.resx">
+      <DependentUpon>frm_CLINIC_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_CUSTUMAR_ADD.resx">
+      <DependentUpon>frm_CUSTUMAR_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_DIAGNOIS_ADD.resx">
+      <DependentUpon>frm_DIAGNOIS_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_MEDCIN_ADD.resx">
+      <DependentUpon>frm_MEDCIN_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_SERVICE_ADD.resx">
+      <DependentUpon>frm_SERVICE_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ADD\frm_VIS_ADD.resx">
+      <DependentUpon>frm_VIS_ADD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MAIN\frm_CILIC_MAIN.resx">
+      <DependentUpon>frm_CILIC_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MAIN\frm_MED_MAIN.resx">
+      <DependentUpon>frm_MED_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MAIN\frm_SERV_MAIN.resx">
+      <DependentUpon>frm_SERV_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MAIN\frm_DOC MAIN.resx">
+      <DependentUpon>frm_DOC MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MAIN\frm_MAIN.resx">
+      <DependentUpon>frm_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MED\frm_DIG_MED.resx">
+      <DependentUpon>frm_DIG_MED.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MED\frm_SER_MED.resx">
+      <DependentUpon>frm_SER_MED.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_USERLOGIN.resx">
+      <DependentUpon>frm_USERLOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_APO_LIST.resx">
+      <DependentUpon>frm_APO_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_CARD_LIST.resx">
+      <DependentUpon>frm_CARD_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_CLINIC_LIST.resx">
+      <DependentUpon>frm_CLINIC_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_COMPANNY_LIST.resx">
+      <DependentUpon>frm_COMPANNY_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_CUST_LIST.resx">
+      <DependentUpon>frm_CUST_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_DIAGNOIS_LIST.resx">
+      <DependentUpon>frm_DIAGNOIS_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_LIST_DOC.resx">
+      <DependentUpon>frm_LIST_DOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_LIST_USER.resx">
+      <DependentUpon>frm_LIST_USER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_MEDCIN_LIST.resx">
+      <DependentUpon>frm_MEDCIN_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LIST_FROM\frm_SERVICE_LIST.resx">
+      <DependentUpon>frm_SERVICE_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reshot-icon-setting-PX3AC5RF6W.svg" />
+    <None Include="Resources\dwaaaa.svg" />
+    <None Include="Resources\tkarir.svg" />
+    <None Include="Resources\reshot-icon-project-report-KLMN4PJ29R.svg" />
+    <None Include="Resources\reshot-icon-doctor-YPW8KBL6RE1.svg" />
+    <None Include="Resources\reshot-icon-receptionist-MQ2G7BT6LF1.svg" />
+    <None Include="Resources\reshot-icon-receptionist-MQ2G7BT6LF.svg" />
+    <None Include="Resources\employees.svg" />
+    <None Include="PHOTO\3135510.png" />
+    <None Include="PHOTO\6014551_asian_coronavirus_doctor_male_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\خلفيات-ساده-للتصميم-خلفية-زرقاء-مدرجة-للكتابه-121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reshot-icon-save-button-Y2ZUPHGVQ8.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveas.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\automaticupdates.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updatedataextract.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletedatasource.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearheaderandfooter.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listview.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clinic-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clinic-svgrepo-com %281%29.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\research-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lookup&amp;reference_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printviapdf_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updatedataextract1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insertgroupfooter.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TASHKHsvg.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-examination-male-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-receipt-left-3-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-send-svgrepo-com %281%29.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a-female-doctor-wearing-a-surgical-gown-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-document-file-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\virus-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microscope-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\convertto.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updatetableofcontents.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recurrence_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletelist2_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adateoccurring_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe-favorite-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addnewdatasource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db-copy-svgrepo-com.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db-copy-svgrepo-com %281%29.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deletedatasource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1647973905388.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16479739053881.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

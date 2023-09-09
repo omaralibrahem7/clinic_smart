@@ -1,0 +1,246 @@
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_MAIN.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_USERLOGIN.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.GenerateResource.cache
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\CLINIC_OMAR_05541456466.exe.config
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\CLINIC_OMAR_05541456466.exe
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\CLINIC_OMAR_05541456466.pdb
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.Properties.Resources.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.exe.licenses
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.CoreCompileInputs.cache
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.CopyComplete
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.exe
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.pdb
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_ADD_DOCTOR.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_LIST_USER.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_CLINIC_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_DOC_MAIN.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_LIST_DOC.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_CLINIC_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_CILIC_MAIN.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_ADD_COMPANY.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_COMPANNY_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_SERVICE_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_DIAGNOIS_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_MEDCIN_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_DIAGNOIS_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_MEDCIN_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_SERVICE_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_CARD_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_CUSTUMAR_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_CARD_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_CUST_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_APO_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.AssemblyReference.cache
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_APO_LIST.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.CLASES.frm_CUST_RESP_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_VIS_ADD.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MED.frm_DIG_MED.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MED.frm_SER_MED.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_SERV_MAIN.resources
+C:\Users\Omar_ALibrahem\source\repos\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_MED_MAIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\CLINIC_OMAR_05541456466.exe.config
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\CLINIC_OMAR_05541456466.exe
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\CLINIC_OMAR_05541456466.pdb
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.AssemblyReference.cache
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.CLASES.frm_CUST_RESP_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_ADD_COMPANY.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_ADD_DOCTOR.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_APO_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_CARD_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_CLINIC_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_CUSTUMAR_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_DIAGNOIS_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_MEDCIN_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_SERVICE_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_ADD.frm_VIS_ADD.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_CILIC_MAIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_MED_MAIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_SERV_MAIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_DOC_MAIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MAIN.frm_MAIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MED.frm_DIG_MED.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_MED.frm_SER_MED.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.frm_USERLOGIN.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_APO_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_CARD_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_CLINIC_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_COMPANNY_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_CUST_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_DIAGNOIS_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_LIST_DOC.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_LIST_USER.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_MEDCIN_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.LIST_FROM.frm_SERVICE_LIST.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.Properties.Resources.resources
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.GenerateResource.cache
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.exe.licenses
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.CoreCompileInputs.cache
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.csproj.CopyComplete
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.exe
+C:\Users\Omar Al-Ibrahim\Desktop\CLINIC_OMAR_05541456466\CLINIC_OMAR_05541456466\obj\Debug\CLINIC_OMAR_05541456466.pdb
